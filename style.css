@@ -1,0 +1,32 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #6E6E6E;
+}
+
+#container {
+	width: 375px;
+}
+
+#box {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 100px;
+	background: #fff;
+	opacity: 0.5;
+}
+
+#output {
+	position: absolute;
+	left: 390px;
+	top: 0px;
+}
+
+#crop_button, #reset_img, #link_img {
+	background: #333;
+	color: #fff;
+	padding: 5px;
+	border: 0px;
+}
